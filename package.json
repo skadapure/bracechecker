@@ -1,0 +1,14 @@
+{
+  "name": "bracechecker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "jestTest": "jest ./jestTest --coverage --forceExit"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^23.1.0"
+  }
+}
